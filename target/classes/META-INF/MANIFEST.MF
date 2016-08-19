@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-Title: wine
+Implementation-Version: 1.0.0-SNAPSHOT
+Implementation-Vendor-Id: com.algaworks
+Build-Jdk: 1.7.0_80
+Built-By: vinicius
+Created-By: Maven Integration for Eclipse
+
